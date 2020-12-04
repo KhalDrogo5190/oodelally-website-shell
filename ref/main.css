@@ -1,0 +1,154 @@
+.clearfix{
+  overflow: auto;
+}
+
+div.jumbotron {
+  background-image: url('../pic/banner-shot-trip1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-origin: padding-box;
+  padding: 10%;
+  text-align: center;
+  color: #ffffff;
+  font-size: 24px;
+  text-shadow: 4px 4px #525252;
+}
+div.row{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-
+}
+
+h1{
+  color: #1c1b1a;
+  text-align: center;
+  font-size:60px;
+  font-family: 'Niramit', sans-serif;
+}
+
+h2{
+  color: #1c1b1a;
+  text-align: center;
+  font-size:40px;
+  font-family: 'Niramit', sans-serif;
+}
+
+h3{
+  color: #1c1b1a;
+  font-size:20px;
+  font-family: 'Niramit', sans-serif;
+}
+
+p{
+  color: #1c1b1a;
+  font-size:18px;
+  font-family: 'Niramit', sans-serif;
+  line-height: 1.5;
+}
+
+a:link {
+    color: #8e8963;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8e8963;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4f4b3e;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #4f4b3e;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+nav {
+    float: left;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    background: ##f7f7f7;
+    font-size: 20px
+  }
+
+footer {
+  background-image: url('footer-background.png');
+  background-size: cover;
+  background-position: top;
+  padding-top: 10px;
+  text-align:left;
+  font-size:15px;
+  color: #1c1b1a;
+  font-size: 18px;
+}
+
+iframe{
+  height: 480px;
+  width: 853px;
+
+}
+/*  color: #8e8963;
+  text-align: center;
+  font-size:40px;
+  font-family: 'Niramit', sans-serif;
+}*/
+
+img{
+  max-width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+table{
+  margin:auto;
+  text-align: center;
+  max-width: 50%
+  padding: 15px;
+}
+form{
+text-align: center;
+font-size: 25px;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+   /* height: 300px; Should be removed. Only for demonstration */
+}
+
+.left {
+  float: left;
+  width: 70%;
+}
+
+.right {
+  float:right;
+  width: 30%;
+}
+
+body{
+  background-color:#f2f2f2;
+  color:#8e8963;
+  text-align: left;
+  font-size:40px;
+  font-family: 'Niramit', sans-serif;
+  margin-top: 5%
+}
